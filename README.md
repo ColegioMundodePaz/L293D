@@ -1,4 +1,4 @@
-# L293D con Arduino
+# L293D con Arduino ![Arduino](https://img.shields.io/badge/arduino-Rob%C3%B3tica-blue?logo=arduino)
 Práctica de robótica en la que aprenderemos a controlar un motor DC con un circuito integrado L293D y Arduino
 
 ## Materiales
